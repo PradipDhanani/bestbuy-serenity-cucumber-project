@@ -1,0 +1,10 @@
+com\bestbuy\testbase\TestBase.class
+com\bestbuy\bestbuyCRUD\ServiceCRUDTest.class
+com\bestbuy\cucumber\stepsdefs\ServiceStepdefs.class
+com\bestbuy\cucumber\CucumberRunner.class
+com\bestbuy\bestbuyCRUD\StoreCRUDTest.class
+com\bestbuy\bestbuyCRUD\CategoryCRUDTest.class
+com\bestbuy\cucumber\stepsdefs\ProductStepdefs.class
+com\bestbuy\bestbuyCRUD\ProductCRUDTest.class
+com\bestbuy\cucumber\stepsdefs\CategoriesStepdefs.class
+com\bestbuy\cucumber\stepsdefs\StoresStepdefs.class

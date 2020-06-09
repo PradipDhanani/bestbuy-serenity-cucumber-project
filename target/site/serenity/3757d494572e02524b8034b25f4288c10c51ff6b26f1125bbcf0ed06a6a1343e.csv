@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different requests on the best buy categories application","check if the best buy categories application can be accessed by users","SUCCESS","2020-06-09T15:19:53.987+01:00[Europe/London]","0.0","0.35"
+"Testing different requests on the best buy product application","check if the best buy product application can be accessed by users","SUCCESS","2020-06-09T15:19:55.849+01:00[Europe/London]","0.0","0.04"
+"Testing different requests on the best buy services application","check if the best buy services application can be accessed by users","SUCCESS","2020-06-09T15:19:58.235+01:00[Europe/London]","0.0","0.03"
+"Testing different requests on the best buy stores application","check if the best buy stores application can be accessed by users","SUCCESS","2020-06-09T15:20:00.312+01:00[Europe/London]","0.0","0.13"
